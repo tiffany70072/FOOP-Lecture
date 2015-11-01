@@ -39,5 +39,4 @@ public class JacksOrBetter{ //整理instant variables，
         }
         casino.GameFinish(casino.name, round-1, money); 
 	}
-    
 }
